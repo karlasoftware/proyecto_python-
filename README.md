@@ -9,3 +9,6 @@ GitHub Para almacenar el proyecto
 #Rol y Aportes personales 
 Desarrolladora del sistema.
 Desarrollar el modulo de gestion declientes y apoyar en la gstión de solicitudes de créditos, además de realizar pruebas constantes sobre el proyecto.
+
+#Autor
+Karla Lizzette Rafael
