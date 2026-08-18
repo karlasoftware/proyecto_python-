@@ -1,5 +1,5 @@
 # proyecto_financira
-Proyecto1 desarrollo para la gestión y administración de información de una financiera de creditos  
+Proyecto1 desarrollo para la gestión y administración de información de una financiera de creditos. El sistema busca facilitar el manejo de la información de los clientes, solicitudes de crédito, préstamos y pagos, permitiendo organizar los datos de manera sencilla, rápida y eficiente.
 
 #Tecnologias utilizadas 
 SQL Base de datos para almacenar clientes, créditos y pagos de cada prestamo.
